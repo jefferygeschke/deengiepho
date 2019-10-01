@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ixeidoofo.jonthebeef.xyz/sitemap.xml
